@@ -23,5 +23,5 @@ data.txt 라는 파일이 주어집니다.
 |정 | 리|
 |---|---|
 |압축해야 할 파일|data.txt|
-|압축한 파일|data.zip|
+|압축한 파일|datazip.txt|
 |압축 해제한 파일|datanew.txt|
